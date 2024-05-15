@@ -13,11 +13,12 @@ I'm a Computer Science undergrad, passionate about competitive programming for a
 ## 🔧 Skills
 
 - **Programming Languages:** Python, JavaScript, TypeScript, C++, C, Java
-- **Web Development:** HTML, CSS, Bootstrap, React.js, Next.js, Node.js, Flask, MongoDB, Firebasem, MySQL, Postgresql  
+- **Web Development:** HTML, CSS, Bootstrap, React.js, Next.js, Node.js, Flask, MongoDB, Firebase, MySQL, Postgresql
+- **Data Structues and Algoritms:** solved 450+ on leetcode, contest rating 1632 
 - **Machine Learning & Deep Learning:** TensorFlow, scikit-learn (sklearn), NLP (spacey), compvision(cv2), image classification and segmentation 
 - **Data Science:** Pandas, Matplotlib, Seaborn
 - **Game Graphics/Rendering:** OpenGL, Pygame, Unity
-- **Electronics:** Raspberry Pi, Arduino, ESP32
+- **Electronics:** Raspberry Pi, Arduino, ESP32CAM
 
 <!-- ## 🛠️ Projects
 
